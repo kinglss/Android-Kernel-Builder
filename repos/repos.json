@@ -1,0 +1,46 @@
+[
+  {
+突耳没有包装"kernelSource": {
+移动到页面上的下一个交互元素。软包"name": "android_kernel_xiaomi_star",
+"kernelSource": {"repo": "https://github.com/Laulan56/android_kernel_xiaomi_star.git",
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+query为空
+      }
+    },
+    "AnyKernel3": {
+      "use": true,
+      "release": true,
+      "repo": "https://github.com/easterNday/AnyKernel3/",
+      "branch": "star"
+    }
+  },
+]
